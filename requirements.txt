@@ -1,0 +1,7 @@
+kivy
+SpeechRecognition
+ipython
+black
+
+# brew install portaudio
+pyaudio
